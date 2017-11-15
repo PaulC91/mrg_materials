@@ -53,6 +53,33 @@ options(htmltools.dir.version = FALSE)
 
 ---
 
+.left-column[
+## Who are we?
+## What do we do?
+## How do we do it?
+]
+
+.right-column[
+<img src="https://dkmathstats.com/wp-content/uploads/2017/05/RStudio-Ball.png" alt="R" style="width: 100px; float: right; padding-top: 10px;"/>
+
+
+## We use R!
+among other data science tools...
+
+]
+
+<div class="center">
+  <img src="img/shiny.png" alt="shiny" style="width: 100px; padding-bottom: 0px;"/>
+  <img src="img/rmarkdown.png" alt="rmarkdown" style="width: 100px; padding-bottom: 0px;"/>
+</div>
+
+.center[
+<img src="img/HTML5.png" alt="html5" style="width: 100px;"/>
+<img src="img/CSS3.png" alt="css3" style="width: 100px;"/>
+<img src="img/js.png" alt="js" style="width: 100px;"/>
+]
+---
+
 class: inverse, middle, center
 
 # How could this help you?
