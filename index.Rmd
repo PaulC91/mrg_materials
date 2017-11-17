@@ -305,17 +305,3 @@ Or get in touch via the following channels:
 - Phone: 020 7502 5921
 
 Enjoy the conference!
-
----
-
-<div class="center">
-  <img src="img/shiny.png" alt="shiny" style="width: 100px; padding-bottom: 0px;"/>
-  <img src="img/rmarkdown.png" alt="rmarkdown" style="width: 100px; padding-bottom: 0px;"/>
-</div>
-
-.center[
-<img src="img/HTML5.png" alt="html5" style="width: 100px;"/>
-<img src="img/CSS3.png" alt="css3" style="width: 100px;"/>
-<img src="img/js.png" alt="js" style="width: 100px;"/>
-]
-
