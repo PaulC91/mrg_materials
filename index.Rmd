@@ -1,8 +1,8 @@
 ---
 title: "Culture of Insight"
-subtitle: "MRG Conference"
-author: "James Smythe & Paul Campbell"
-date: "05/12/207<br><br><i>@datasetfree</i>"
+subtitle: "Getting you to Insight faster in 2018"
+author: ""
+date: "<i>@datasetfree</i>"
 output:
   xaringan::moon_reader:
     css: ["default.css", "code.css"]
@@ -304,4 +304,4 @@ Or get in touch via the following channels:
 
 - Phone: 020 7502 5921
 
-Enjoy the conference!
+Hope to hear from you soon!
